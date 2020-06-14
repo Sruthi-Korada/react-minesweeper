@@ -9,7 +9,7 @@ A React clone of Minesweeper.
 ## Development
 
 ```sh
-$ git clone https://github.com/saitoxu/react-minesweeper.git
+$ git clone https://github.com/Sruthi-Korada/react-minesweeper.git
 $ cd react-minesweeper
 $ yarn install
 $ yarn start
@@ -28,6 +28,4 @@ Changes and improvements are more than welcome! Feel free to fork and open a pul
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT)
-
-Copyright (c) Yosuke Saito 2017
+Copyright (c) Sruthi-Korada 2020
